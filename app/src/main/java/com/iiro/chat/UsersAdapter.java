@@ -36,7 +36,7 @@ public class UsersAdapter extends RecyclerView.Adapter <UsersAdapter.UserHolder>
         View view = LayoutInflater.from(context).inflate(R.layout.user_holder, parent, false);
         return new UserHolder(view);
     }
-
+//
     @Override
     public void onBindViewHolder(@NonNull UserHolder holder, int position) {
         holder.txtUsername.setText(users.get(position).getUsername());
