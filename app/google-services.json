@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240159258498",
+    "firebase_url": "https://chatdatabase-bc83c-default-rtdb.firebaseio.com",
+    "project_id": "chatdatabase-bc83c",
+    "storage_bucket": "chatdatabase-bc83c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240159258498:android:2d671ca7112957cd36c19b",
+        "android_client_info": {
+          "package_name": "com.iiro.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240159258498-5ut1u2vl7psn3i0pvqipi0n56qkq31u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTtVajZE2pUOqIrGSjiH2mAKbHWTDqryg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240159258498-5ut1u2vl7psn3i0pvqipi0n56qkq31u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
